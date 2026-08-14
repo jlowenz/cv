@@ -19,7 +19,7 @@ I enjoy working on hard problems. For the last ~19 years: getting autonomous sys
 
 ### Research interests
 
-- continuous learning for physical agents
+- continuous open-set learning for physical agent perception
 - knowledge representation and reasoning
 - programming language design
 - formal foundations
@@ -29,7 +29,7 @@ I enjoy working on hard problems. For the last ~19 years: getting autonomous sys
 
 `2009-2019`
 
-__[Ph.D. in Computer and Information Science](http://www.upenn.edu/cis)__
+**[Ph.D. in Computer and Information Science](http://www.upenn.edu/cis)**
 
 University of Pennsylvania -- Philadelphia, PA, USA  
 *Concurrent with employment at Army Research Lab*
@@ -156,7 +156,7 @@ Aberdeen, MD
 
 **Computer Scientist, Autonomous Systems Division, VTD**
 
-Sep 2007 - Aug 2029
+Sep 2007 - Aug 2019
 
 **Agent World Model**
 
@@ -268,4 +268,4 @@ J. L. Owens. 2019. _[Visual Perception For Robotic Spatial Understanding](https:
 
 `2026`
 
-Djuric, N., Lewitt, T., Owens, J. 2026. "Traffic Signal State Detection." Patent pending \#20260175870
+Djuric, N., Lewitt, T., Owens, J. 2026. "Traffic Signal State Detection." Patent application \#20260175870
