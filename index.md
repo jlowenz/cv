@@ -15,7 +15,7 @@ Computer scientist, software engineer, father.
 
 ## Currently
 
-I enjoy working on hard problems. For the last ~19 years: getting autonomous systems to see and understand the physical world. I'm currently a Staff TLM at Aurora; previously Uber ATG and 16 years as a Computer Scientist at the US Army Research Laboratory. PhD in Computer Science (Penn), focused on perception for robotic spatial understanding.
+I enjoy working on hard problems. For the last ~19 years: getting autonomous systems to see and understand the physical world. I'm currently a Staff Technical Lead at Aurora; previously Uber ATG and 16 years as a Computer Scientist at the US Army Research Laboratory. PhD in Computer Science (Penn), focused on perception for robotic spatial understanding.
 
 ### Research interests
 
@@ -39,7 +39,7 @@ _Jan 2009 - May 2019_
 [https://www.upenn.edu](https://www.upenn.edu)
 
 - Advisor: Prof. Kostas Daniilidis
-- Defended: December 21, 2019
+- Defended: December 21, 2018
 - Dissertation: Visual Perception for Robotic Spatial Understanding
 
 `2005-2008`
@@ -52,7 +52,7 @@ Baltimore, MD, USA
 *Concurrent with employment at Army Research Lab*  
 _Jan 2005-May 2008_
 
-Cumulative GPA: 4.0 / 4.0
+Cumulative GPA: 4.00 / 4.00
 
 `1995-2000`
 
@@ -104,9 +104,10 @@ Tech lead for multiple perception capabilities across the full stack — from ML
 
 *Senior Software Engineer, Perception*  
 **Sep 2019 - Jan 2021** ATG/Aurora merged, Pittsburgh, PA  
-Owned a core perception capability; responsible for the ML model, training, data infrastructure, and label quality.
+Owned a core perception capability; responsible for the ML model, training, data infrastructure, and label quality. 
 
-- Transitioned onboard architecture from
+- Improved classification performance through large-scale label investigation and visualization
+- Transitioned onboard architecture to new in-process components
 
 `2003-2019`
 
@@ -160,11 +161,11 @@ Sep 2007 - Aug 2019
 
 **Agent World Model**
 
-Modern autonomous robots are a large collection of complex algorithms working together to solve a common goal. Collecting and interpreting uncertain spatial, temporal, and semantic knowledge into a single central repository can help these algorithms operate more efficiently and, in addition, allow for more advanced reasoning (e.g., reasoning over time). We are developing an agent world model that provides a central repository of knowledge based on limited modal logic and an integrative symbolic and sub-symbolic data store.
+Modern autonomous robots are a large collection of complex algorithms working together to solve a common goal. Collecting and interpreting uncertain spatial, temporal, and semantic knowledge into a single central repository can help these algorithms operate more efficiently and, in addition, allow for more advanced reasoning (e.g., reasoning over time). We developed an agent world model that provides a central repository of knowledge based on limited modal logic and an integrative symbolic and sub-symbolic data store.
 
 **Adaptive perception processes for learning from experience**
 
-The APPLE project investigates continuous object learning systems; since it is not possible to train a robot for all future situations, instead it must be able to *learn from experience*. We hypothesize that a robot must support six conceptual components in order to be able to continuously learn about objects; these include ego-motion estimation, segmentation, flexible object representation, instance and category recognition, novelty detection, and generalization. We are developing a benchmark and framework for evaluating continuous object learning systems, as well as proposing a set of baseline component implementations.
+The APPLE project investigated continuous object learning systems; since it is not possible to train a robot for all future situations, instead it must be able to *learn from experience*. We hypothesized that a robot must support six conceptual components in order to be able to continuously learn about objects; these include ego-motion estimation, segmentation, flexible object representation, instance and category recognition, novelty detection, and generalization. We worked towards a benchmark and framework for evaluating continuous object learning systems, as well as proposed a set of baseline component implementations.
 
 **Multi-sensor graph calibration**
 
@@ -214,11 +215,11 @@ Osteen, P. R., J. L. Owens, and B. Kaukeinen. 2019. "Reducing the Cost of Visual
 
 `2018`
 
-Osteen, P. R., J. L. Owens, R. S. Amant, C. Robison, B. Kaukeinen, and M. DiBlasi. 2018. "Enabling Intelligence with Temporal World Models." *Unmanned Systems Technology XX* 10640 (May).
+Osteen, P. R., J. L. Owens, R. St. Amant, C. Robison, B. Kaukeinen, and M. DiBlasi. 2018. "Enabling Intelligence with Temporal World Models." *Unmanned Systems Technology XX* 10640 (May).
 
 `2017`
 
-Owens, J., and P. Osteen. 2017a. "APPLE: Adaptive Perception Processes for Learning from Experience." Paper presented CVPR. *Continuous and Open-Set Learning Workshop (CVPR)* (Hawaii, USA), July.
+Owens, J., and P. Osteen. 2017. "APPLE: Adaptive Perception Processes for Learning from Experience." Paper presented at CVPR. *Continuous and Open-Set Learning Workshop (CVPR)* (Hawaii, USA), July.
 
 `2015`
 
