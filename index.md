@@ -169,15 +169,15 @@ The APPLE project investigated continuous object learning systems; since it is n
 
 **Multi-sensor graph calibration**
 
-Our multi-sensor graph calibration framework solves a real problem for robots: they have a wide variety of sensors mounted in multiple locations that must be fused into a single coordinate frame to most effectively use the information. Our framework utilizes a novel background subtraction algorithm, geometry-based alignment features, and graph optimization to generate global relative sensor poses for an arbitrary number of sensors over three different sensor modalities on a robot.
+Our multi-sensor graph calibration framework solved a real problem for robots: they have a wide variety of sensors mounted in multiple locations that must be fused into a single coordinate frame to most effectively use the information. Our framework utilized a novel background subtraction algorithm, geometry-based alignment features, and graph optimization to generate global relative sensor poses for an arbitrary number of sensors over three different sensor modalities on a robot.
 
 **Temporally consistent segmentation**
 
-One of the first steps in scene understanding using vision is to group pixels into larger chunks for more efficient reasoning. We perform this process of over-segmentation in 3-D and modify an existing voxel clustering algorithm to support consistent segmentations over time given effective ego-motion estimates and clouds of the environment. Temporal consistency enables incremental segmentation of an environment during exploration.
+One of the first steps in scene understanding using vision is to group pixels into larger chunks for more efficient reasoning. We performed this process of over-segmentation in 3-D and modified an existing voxel clustering algorithm to support consistent segmentations over time given effective ego-motion estimates and clouds of the environment. Temporal consistency enables incremental segmentation of an environment during exploration.
 
 **RGB-D Egomotion and Mapping**
 
-Robots need to know where they are, and one approach to this task is to estimate local motion using vision sensors and simultaneously construct a map of the environment for localization. We developed both sparse and dense implementations for ego-motion estimation, use surface elements for mapping, and GPU acceleration to produce high-resolution maps of the environment and provide accurate local motion estimation using RGB-D sensors.
+Robots need to know where they are, and one approach to this task is to estimate local motion using vision sensors and simultaneously construct a map of the environment for localization. We developed both sparse and dense implementations for ego-motion estimation, used surface elements for mapping, and GPU acceleration to produce high-resolution maps of the environment and provide accurate local motion estimation using RGB-D sensors.
 
 **Autonomous search and exploration**
 
