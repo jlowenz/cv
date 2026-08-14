@@ -211,7 +211,7 @@ Designed and developed a prototype 3D vulnerability results viewer for efficient
 
 `2019`
 
-Osteen, P. R., J. L. Owens, and B. Kaukeinen. 2019. "Reducing the Cost of Visual DL Datasets." SPIE defense+ commercial sensing. (Baltimore, MD). [https://doi.org/10.1117/12.2519114](https://doi.org/10.1117/12.2519114)
+Osteen, P. R., J. L. Owens, and B. Kaukeinen. 2019. "Reducing the Cost of Visual DL Datasets." SPIE Defense+ commercial sensing. (Baltimore, MD). [https://doi.org/10.1117/12.2519114](https://doi.org/10.1117/12.2519114)
 
 `2018`
 
@@ -233,7 +233,7 @@ Tron, R., P. Osteen, J. Owens, and K. Daniilidis. 2014. "Pose Optimization for t
 
 `2012`
 
-Osteen, P. R., J. L. Owens, and C. C. Kessens. 2012. "Online Egomotion Estimation of RGB-d Sensors Using Spherical Harmonics." *Robotics and Automation (ICRA), 2012 IEEE International Conference on*, 1679--84.
+Osteen, P. R., J. L. Owens, and C. C. Kessens. 2012. "Online Egomotion Estimation of RGB-D Sensors Using Spherical Harmonics." *Robotics and Automation (ICRA), 2012 IEEE International Conference on*, 1679--84.
 
 Owens, J., P. Osteen, and M. Fields. 2012. "Autonomous Exploration and Mapping of Unknown Environments." *SPIE Defense, Security, and Sensing* 838717--17.
 
