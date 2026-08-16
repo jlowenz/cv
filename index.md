@@ -22,7 +22,6 @@ I enjoy working on hard problems. For the last ~19 years: getting autonomous sys
 - continuous open-set learning for physical agent perception
 - knowledge representation and reasoning
 - programming language design
-- formal foundations
 - humane interfaces
 
 ## Education
