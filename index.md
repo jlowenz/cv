@@ -150,6 +150,7 @@ __Portablehole.net__
 `2022-Present`
 
 **Firefighter**
+
 *Dorseyville Volunteer Fire Company #1*
 
 - Firefighter 1 Certification (PA / Pro Board)
@@ -160,6 +161,7 @@ __Portablehole.net__
 `2015-2018`
 
 **FLL Robotics Mentor and Coach**
+
 *TechBrick Education 501(c)(3) and Meadowvale Elementary, MD*
 
 - Mentoring students for robot design, project design, collaboration and problem solving. 
