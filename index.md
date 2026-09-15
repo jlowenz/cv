@@ -5,7 +5,7 @@ title: Jason Owens' CV
 
 # Jason L. Owens
 
-Computer scientist, software engineer, father.
+Computer scientist, software engineer, firefighter, father.
 
 <div id="webaddress">
 <a href="jlowens@gmail.com">jlowens@gmail.com</a>
@@ -13,16 +13,15 @@ Computer scientist, software engineer, father.
 | <a href="http://github.com/jlowenz">GitHub</a>
 </div>
 
-## Currently
+## Briefly
 
 I enjoy working on hard problems. For the last ~19 years: getting autonomous systems to see and understand the physical world. I'm currently a Staff Technical Lead at Aurora; previously Uber ATG and 16 years as a Computer Scientist at the US Army Research Laboratory. PhD in Computer Science (Penn), focused on perception for robotic spatial understanding.
 
 ### Research interests
 
 - continuous open-set learning for physical agent perception
-- world models for intelligent agent behavior
 - knowledge representation and reasoning
-- programming language design
+- programming languages and environments
 - humane interfaces
 
 ## Education
@@ -145,6 +144,26 @@ __Portablehole.net__
 **Jun 2000 -- May 2001**
 
 - Various web and internal Java Swing applications for Ingram Micro
+
+## Volunteering
+
+`2022-Present`
+
+**Firefighter**
+*Dorseyville Volunteer Fire Company #1*
+
+- Firefighter 1 Certification (PA / Pro Board)
+- Firefighter 1 Courses through Butler Community College
+- Currently in driver training
+- Recently completed pump training
+
+`2015-2018`
+
+**FLL Robotics Mentor and Coach**
+*TechBrick Education 501(c)(3) and Meadowvale Elementary, MD*
+
+- Mentoring students for robot design, project design, collaboration and problem solving. 
+- Met weekly and for some weekends throughout the program seasons.
 
 ## Research
 
