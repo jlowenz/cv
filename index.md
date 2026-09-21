@@ -15,13 +15,14 @@ Computer scientist, software engineer, firefighter, father.
 
 ## Briefly
 
-I enjoy working on hard problems. For the last ~19 years: getting autonomous systems to see and understand the physical world. I'm currently a Staff Technical Lead at Aurora; previously Uber ATG and 16 years as a Computer Scientist at the US Army Research Laboratory. PhD in Computer Science (Penn), focused on perception for robotic spatial understanding.
+I enjoy working on hard problems. For the last ~19 years: getting autonomous systems to see and understand the physical world---using classical geometric perception to modern deep learning approaches. I'm currently a Staff Technical Lead at Aurora; previously Uber ATG and 16 years as a Computer Scientist at the US Army Research Laboratory. PhD in Computer Science (Penn), focused on perception for robotic spatial understanding.
 
 ### Research interests
 
 - continuous open-set learning for physical agent perception
+- world models for intelligent agent behavior
 - knowledge representation and reasoning
-- programming languages and environments
+- programming environment design
 - humane interfaces
 
 ## Education
@@ -92,10 +93,11 @@ __Aurora__
 **Jan 2021 - Present**, Pittsburgh, PA  
 Tech lead for multiple perception capabilities across the full stack — from ML model design through onboard and offboard system architecture to data, processing, and evaluation infrastructure.
 
-- Lead cross-functional teams through capability releases
-- Craft label and evaluation policy
-- Direct development of multiple new capabilities from inception to production deployment
-- Mentor engineers toward expanded technical ownership and scope
+- Own several safety-critical perception capabilities end-to-end (traffic-light state classification [CNN classifier with SVM-based temporal fusion], active school-bus detection): from requirements and data quality through model design, V&V, and production deployment across multiple releases
+- Contribute to software FMEA, scenario failure analysis, dimensions and variations coverage, and risk assessment; gate each release on an acceptable safety argument
+- Architect onboard/offboard systems spanning ML models, data pipelines, and evaluation infrastructure; e.g., added dynamic sign state classification, leveraging existing traffic light infrastructure to reduce time to deployment
+- Lead cross-functional teams through capability releases and mentor engineers toward expanded technical ownership
+- Traffic signal state detection patent (details below)
 
 `2019-2021`
 
@@ -105,8 +107,8 @@ Tech lead for multiple perception capabilities across the full stack — from ML
 **Sep 2019 - Jan 2021** ATG/Aurora merged, Pittsburgh, PA  
 Owned a core perception capability; responsible for the ML model, training, data infrastructure, and label quality. 
 
-- Improved classification performance through large-scale label investigation and visualization
-- Transitioned onboard architecture to new in-process components
+- Improved classification performance through large-scale label investigation and visualization; debugged timestamp alignment causing incorrect labels at every state transition. 
+- Migrated onboard architecture to new in-process components
 
 `2003-2019`
 
@@ -144,32 +146,6 @@ __Portablehole.net__
 **Jun 2000 -- May 2001**
 
 - Various web and internal Java Swing applications for Ingram Micro
-
-## Volunteering
-
-`2022-Present`
-
-**Firefighter**
-
-*Dorseyville Volunteer Fire Company #1*
-
-**Oct 2022 -- Present**
-
-- Firefighter 1 Certification (PA / Pro Board)
-- Firefighter 1 Courses through Butler Community College
-- Currently in driver training
-- Recently completed pump training
-
-`2015-2018`
-
-**FLL Robotics Mentor and Coach**
-
-*TechBrick Education 501(c)(3) and Meadowvale Elementary, MD*
-
-**Aug 2015 -- Feb 2018**
-
-- Mentoring students for robot design, project design, collaboration and problem solving. 
-- Met weekly and for some weekends throughout the program seasons.
 
 ## Research
 
@@ -230,6 +206,32 @@ Researched, designed, and built a GUI application framework using humane human-c
 
 Designed and developed a prototype 3D vulnerability results viewer for efficiently displaying and querying analysis results. Received enthusiastic feedback during prototype demonstrations.
 
+## Volunteering
+
+`2022-Present`
+
+**Firefighter**
+
+*Dorseyville Volunteer Fire Company #1*
+
+**Oct 2022 -- Present**
+
+- Firefighter 1 Certification (PA / Pro Board)
+- Firefighter 1 Courses through Butler Community College
+- Currently in driver training
+- Recently completed pump training
+
+`2015-2018`
+
+**FLL Robotics Mentor and Coach**
+
+*TechBrick Education 501(c)(3) and Meadowvale Elementary, MD*
+
+**Aug 2015 -- Feb 2018**
+
+- Mentoring students for robot design, project design, collaboration and problem solving. 
+- Met weekly and for some weekends throughout the program seasons.
+
 ## Publications
 
 ### Conferences
@@ -244,7 +246,7 @@ Osteen, P. R., J. L. Owens, R. St. Amant, C. Robison, B. Kaukeinen, and M. DiBla
 
 `2017`
 
-Owens, J., and P. Osteen. 2017. "APPLE: Adaptive Perception Processes for Learning from Experience." Paper presented at CVPR. *Continuous and Open-Set Learning Workshop (CVPR)* (Hawaii, USA), July.
+Owens, J., and P. Osteen. 2017. "APPLE: Adaptive Perception Processes for Learning from Experience." Poster and abstract presented at CVPR. *Continuous and Open-Set Learning Workshop (CVPR)* (Hawaii, USA), July.
 
 `2015`
 
