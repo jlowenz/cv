@@ -15,7 +15,7 @@ Computer scientist, software engineer, firefighter, father.
 
 ## Briefly
 
-I enjoy working on hard problems. For the last ~19 years: getting autonomous systems to see and understand the physical world---using classical geometric perception to modern deep learning approaches. I'm currently a Staff Technical Lead at Aurora; previously Uber ATG and 16 years as a Computer Scientist at the US Army Research Laboratory. PhD in Computer Science (Penn), focused on perception for robotic spatial understanding.
+I enjoy working on hard problems. For the last ~19 years: getting autonomous systems to see and understand the physical world---from classical geometric perception through modern deep learning approaches. I'm currently a Staff Technical Lead at Aurora; previously Uber ATG and 16 years as a Computer Scientist at the US Army Research Laboratory. PhD in Computer Science (Penn), focused on perception for robotic spatial understanding.
 
 ### Research interests
 
